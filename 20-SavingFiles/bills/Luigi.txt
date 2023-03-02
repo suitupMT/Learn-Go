@@ -1,0 +1,4 @@
+Bill breakdown:
+Pizza:                    ...$14.99
+tip:                      ...$5
+total:                    ...$19.99
